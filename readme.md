@@ -18,7 +18,7 @@ Aplicacion similar a google docs con sesiones
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kioshiokamoto/google-docs-clone/blob/main/preview/preview.png?raw=true)
 
 ## Ejecutar localmente
 
